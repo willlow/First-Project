@@ -1,3 +1,17 @@
+.playwrite-at-uniq {
+    font-family: "Playwrite AT", cursive;
+    font-optical-sizing: auto;
+    font-weight: 350;
+    font-style: normal;
+}
+
+.playwrite-nz-basic-uniq {
+    font-family: "Playwrite NZ Basic", cursive;
+    font-optical-sizing: auto;
+    font-weight: 350;
+    font-style: normal;
+}
+
 /* Banner layout */
 .banner {
     display: flex;
